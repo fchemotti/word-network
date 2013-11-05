@@ -1,4 +1,6 @@
 word-network
 ============
 
-some tools for playing with the word network underlying the google keyboard predictive text
+Tools for playing with the word network underlying google keyboard's predictive text feature.
+
+Due to the experimental nature of the project, there is no interface. It is intended to be used in interactive Python.
